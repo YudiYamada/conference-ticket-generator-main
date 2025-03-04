@@ -8,6 +8,7 @@ const AppRoutes = () => {
     <Routes>
       <Route path="/create" element={<CreateTicket />} />
       <Route path="/ticket" element={<TicketDetails />} />
+      <Route path="*" element={<div>Page Not Found</div>} />
     </Routes>
   );
 };
