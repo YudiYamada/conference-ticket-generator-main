@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import { CreateTicket } from "./CreateTicket";
-import { TicketDetails } from "./TicketDetails";
+import { CreateTicket } from "../pages/CreateTicket";
+import { TicketDetails } from "..pages/TicketDetails";
 
 const AppRoutes = () => {
   return (
