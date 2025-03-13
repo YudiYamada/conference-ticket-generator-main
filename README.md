@@ -7,8 +7,6 @@ Este projeto é uma solução para o desafio **Conference Ticket Generator** da 
 
 ## [Visualize o projeto clicando aqui](https://yudiyamada.github.io/conference-ticket-generator-main/)
 
----
-
 ## Funcionalidades
 - **Upload de Imagem**:
   - Permite o upload de uma imagem de perfil por meio de arrastar e soltar (drag & drop) ou seleção direta de arquivos.
